@@ -1,0 +1,1 @@
+Contains images used for presentation and the ones saved using visualization
